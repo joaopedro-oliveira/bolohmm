@@ -18,7 +18,7 @@ export default function Home() {
         width={100}
         height={100}
         quality={100}
-        className='absolute sm:w-12 md:w-24 lg:w-48 xl:w-96 sm:h-12 md:h-24 lg:h-48 xl:h-96 top-0 right-0
+        className='absolute sm:w-12 md:w-24 lg:w-48 xl:w-48 sm:h-12 md:h-24 lg:h-48 xl:h-48 top-0 right-0
         transition-all ease-in-out hover:opacity-20
         '
       >
